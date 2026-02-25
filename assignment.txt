@@ -3,8 +3,6 @@ variance, high bias or high variance, low bias or high variance
 
 solution:
 
-Alright Pratik, this is a core ML theory question and professors love this one. I will structure it like a proper long assignment answer with explanation, diagrams in text form, theory, comparison tables, and conclusion so you can comfortably write 6 pages.
-
 VARIANCE AND BIAS IN MACHINE LEARNING
 
 1. Introduction
